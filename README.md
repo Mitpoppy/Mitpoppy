@@ -1,10 +1,5 @@
 - 👋 Hi, I’m @Mitpoppy
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-Mitpoppy/Mitpoppy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 本人是一名热爱计算机网络的学生
+- 🌱 网络世界都是咱朋友
+- 💞️ 有缘相见，比如打个招呼再走(｡･ω･｡)ﾉ♡
+- 📫 联系邮箱：2974560682@qq.com
